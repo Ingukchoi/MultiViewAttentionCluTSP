@@ -22,18 +22,20 @@ This repository is the official implementation of the paper "**A Multi-View Atte
 - `pytz==2024.1`
 - `sklearn==1.4.2`
 
+---
+
 ### **Training the model:**
 
 - Run `train.py`. The current code uses the same hyperparameter settings as those described in the paper.
 
-### **Testing the model:**
-
 ---
+
+### **Testing the model:**
 
 - Run `test.py`. You can modify the `n_node` (number of nodes) and `n_cluster`(number of clusters) parameters to evaluate the model on various datasets. It's set to use the our main model in the result folder, but you can easily switch to a model you've trained.
 
-### **Acknowledgements:**
-
 ---
+
+### **Acknowledgements:**
 
 - Our code execution is based on the [POMO](https://github.com/yd-kwon/POMO). We thank them for their contribution!
