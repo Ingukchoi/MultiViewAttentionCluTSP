@@ -1,6 +1,6 @@
-# **A Multi-View Attention-Based Encoder-Decoder Framework for Clustered Traveling Salesman Problem**
-
-This repository is the official implementation of the paper "**A Multi-View Attention-Based Encoder-Decoder Framework for Clustered Traveling Salesman Problem**". *IEEE Robotics and Automation Letters*, 2025.
+<h1 align="center">
+A Multi-View Attention-Based Encoder-Decoder Framework for Clustered Traveling Salesman Problem
+</h1>
 
 <p align="center">
   <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3.8%2B-blue?logo=python"></a>
@@ -9,6 +9,9 @@ This repository is the official implementation of the paper "**A Multi-View Atte
   <a href="https://numpy.org/"><img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white"></a>
   <a href="https://scikit-learn.org/"><img src="https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white"></a>
 </p>
+
+This repository is the official implementation of the paper "**A Multi-View Attention-Based Encoder-Decoder Framework for Clustered Traveling Salesman Problem**". *IEEE Robotics and Automation Letters*, 2025.
+
 # **Quick Start**
 
 ### **Dependencies:**
