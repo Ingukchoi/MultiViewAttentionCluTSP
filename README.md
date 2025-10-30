@@ -36,6 +36,6 @@ This repository is the official implementation of the paper "**A Multi-View Atte
 
 ---
 
-### **Acknowledgements:**
+### **Acknowledgement:**
 
 - Our code execution is based on the [POMO](https://github.com/yd-kwon/POMO). We thank them for their contribution!
