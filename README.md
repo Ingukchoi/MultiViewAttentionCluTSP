@@ -10,7 +10,7 @@ A Multi-View Attention-Based Encoder-Decoder Framework for Clustered Traveling S
   <a href="https://scikit-learn.org/"><img src="https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white"></a>
 </p>
 
-This repository is the official implementation of the paper "**A Multi-View Attention-Based Encoder-Decoder Framework for Clustered Traveling Salesman Problem**". *IEEE Robotics and Automation Letters*, 2025.
+This repository is the official implementation of the paper "**A Multi-View Attention-Based Encoder-Decoder Framework for Clustered Traveling Salesman Problem**", *IEEE Robotics and Automation Letters*, 2025.
 
 # **Quick Start**
 
