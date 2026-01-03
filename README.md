@@ -10,6 +10,19 @@ A Multi-View Attention-Based Encoder-Decoder Framework for Clustered Traveling S
 
 This repository is the official implementation of the paper "**A Multi-View Attention-Based Encoder-Decoder Framework for Clustered Traveling Salesman Problem**", IEEE Robotics and Automation Letters, vol.11, no.1, pp.137-144, 2026. [[LINK]](https://ieeexplore.ieee.org/document/11248888)
 
+```bibtex
+@ARTICLE{11248888,
+  author={Park, Jimin and Choi, Inguk and Kim, Hyun-Jung},
+  journal={IEEE Robotics and Automation Letters},
+  title={A Multi-View Attention-Based Encoder-Decoder Framework for Clustered Traveling Salesman Problem},
+  year={2026},
+  volume={11},
+  number={1},
+  pages={137--144},
+  doi={10.1109/LRA.2025.3632724}
+}
+```
+
 # **Quick Start**
 
 ### **Dependencies:**
