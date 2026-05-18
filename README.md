@@ -25,7 +25,7 @@ This repository is the official implementation of the paper "**A Multi-View Atte
 
 # **Quick Start**
 
-### **Dependencies:**
+### **Requirements**
 - `Python=3.10.14`
 - `torch==2.2.2`
 - `torch_geometric==2.5.2`
@@ -35,13 +35,13 @@ This repository is the official implementation of the paper "**A Multi-View Atte
 
 ---
 
-### **Training the model:**
+### **Train**
 
 - Run `train.py`. The current code uses the same hyperparameter settings as those described in the paper.
 
 ---
 
-### **Testing the model:**
+### **Test**
 
 - Run `test.py`. You can modify the `n_node` (number of nodes) and `n_cluster`(number of clusters) parameters to evaluate the model on various datasets. It's set to use the our main model in the result folder, but you can easily switch to a model you've trained.
 
