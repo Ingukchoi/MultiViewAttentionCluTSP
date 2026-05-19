@@ -37,7 +37,7 @@ This repository is the official implementation of our paper "**A Multi-View Atte
 - Run `test.py`. You can modify the `n_node` (number of nodes) and `n_cluster`(number of clusters) parameters to evaluate the model on various datasets. It's set to use the our main model in the result folder, but you can easily switch to a model you've trained.
 
 ---
-If you find this repository valuable for your research, please cite:
+If you find our paper valuable for your research, please cite:
 ```bibtex
 @ARTICLE{11248888,
   author={Park, Jimin and Choi, Inguk and Kim, Hyun-Jung},
