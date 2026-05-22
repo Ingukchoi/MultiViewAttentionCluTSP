@@ -46,7 +46,7 @@ trainer_params = {
     'cuda_device_num': CUDA_DEVICE_NUM,
     'epochs': 2000,
     'train_episodes': 1000,
-    'train_batch_size': 5,
+    'train_batch_size': 16,
     'accmulation_step':4,
     'training':'RL'
 }
