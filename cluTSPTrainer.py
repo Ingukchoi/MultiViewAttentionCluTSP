@@ -94,7 +94,7 @@ class cluTSPTrainer:
 
             loss=loss/self.accmulation_step
             loss.backward()
-            if episode%self.accmulation_step==0 or batch_size<self.trainer_params['train_batch_size']:
+            if epi_loop%self.accmulation_step==0 or batch_size<self.trainer_params['train_batch_size']:
                 self.optimizer.step()
                 self.optimizer.zero_grad()
 
