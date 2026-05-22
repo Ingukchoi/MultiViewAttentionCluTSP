@@ -47,8 +47,7 @@ trainer_params = {
     'epochs': 2000,
     'train_episodes': 1000,
     'train_batch_size': 16,
-    'accmulation_step':4,
-    'training':'RL'
+    'accmulation_step':4
 }
 
 logger_params = {
