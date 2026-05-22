@@ -30,7 +30,6 @@ class cluTSPTrainer:
 
         self.multi_start_size=self.env_params['multi_start']
         self.accmulation_step = self.trainer_params['accmulation_step']
-        self.type = self.trainer_params['training']
 
         # Device setting
         USE_CUDA = self.trainer_params['use_cuda']
