@@ -15,7 +15,14 @@ A Multi-View Attention-Based Encoder-Decoder Framework for Clustered Traveling S
   <img src="./framework.png" width="700">
 </p>
 
-# **Quick Start**
+## Abstract
+
+Many autonomous mobile robot path planning scenarios require servicing grouped delivery points. Such clustered routing problems are naturally formulated as the clustered traveling salesman problem (CluTSP), which comprises two interdependent subproblems: global inter-cluster routing to determine the order of cluster visits and local intra-cluster routing to optimize paths within each cluster.
+Existing approaches often solve these subproblems separately, which leads to suboptimal solutions due to limited information sharing between global and local decisions and requires long computation times. To address these limitations, we propose a unified deep reinforcement learning framework to obtain a powerful and flexible CluTSP routing agent based on a novel multi-view attention-based encoder-decoder framework.
+Our graph neural network-based dual encoder structure effectively captures both global and local routing contexts, and the collaborative decoder generates the overall robot trajectory from a global perspective. Our novel and efficient architecture enables solving both subproblems via unified one-shot construction without addressing each problem separately. 
+Extensive experiments demonstrate that our approach significantly outperforms existing decomposition-based and learning-based methods.
+
+## Quick Start
 
 ### **Requirements**
 - `Python=3.10.14`
