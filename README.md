@@ -45,7 +45,7 @@ Extensive experiments demonstrate that our approach significantly outperforms ex
 - Run `test.py`. You can modify the `n_node` (number of nodes) and `n_cluster`(number of clusters) parameters to evaluate the model on various datasets. It's set to use the our main model in the result folder, but you can easily switch to a model you've trained.
 
 ---
-If you find our code valuable for your research, please cite:
+📝 If you find our code valuable for your research, please cite:
 ```bibtex
 @ARTICLE{11248888,
   author={Park, Jimin and Choi, Inguk and Kim, Hyun-Jung},
