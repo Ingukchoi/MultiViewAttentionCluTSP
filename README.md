@@ -24,7 +24,7 @@ Extensive experiments demonstrate that our approach significantly outperforms ex
 
 ## Quick Start
 
-### **Requirements**
+### ⚙️ **Requirements**
 - `Python=3.10.14`
 - `torch==2.2.2`
 - `torch_geometric==2.5.2`
