@@ -9,7 +9,7 @@ A Multi-View Attention-Based Encoder-Decoder Framework for Clustered Traveling S
   <a href="https://ieeexplore.ieee.org/document/11248888/"><img src="https://img.shields.io/badge/IEEE%20RA--L-Paper-B31B1B"></a>
 </p>
 
->This repository is the official implementation of our paper "**A Multi-View Attention-Based Encoder-Decoder Framework for Clustered Traveling Salesman Problem**", IEEE Robotics and Automation Letters (IEEE RA-L), vol.11, no.1, pp.137-144, 2026.
+>This repository is the official implementation of our paper, "**A Multi-View Attention-Based Encoder-Decoder Framework for Clustered Traveling Salesman Problem**", IEEE Robotics and Automation Letters (IEEE RA-L), vol.11, no.1, pp.137-144, 2026.
 >Our code is partially based on the [POMO](https://github.com/yd-kwon/POMO) repository.
 
 <p align="center">
